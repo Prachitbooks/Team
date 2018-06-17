@@ -15,6 +15,12 @@ Java :
 - Performance of Java Mapping Frameworks | Baeldung : http://www.baeldung.com/java-performance-mapping-frameworks    
 - Riddling your way to master RxJava – Niklas Baudy – Medium : https://medium.com/@vanniktech/riddling-your-way-to-master-rxjava-145d5de99b55
 - Java Optionals for More Expressive Code - DZone Java : https://dzone.com/articles/java-optionals-for-more-expressive-code?utm_source=Top%205&utm_medium=email&utm_campaign=Top%205%202018-06-083
+- Brahma-HibernateUtils: Entity registration in Dropwizard made dead simple : https://medium.com/@aashrairavooru/brahma-hibernateutils-entity-registration-in-dropwizard-made-dead-simple-69be4d2f8191
+- Refactoring to Eclipse Collections: Making Your Java Streams Leaner, Meaner, and Cleaner : https://www.infoq.com/articles/Refactoring-to-Eclipse-Collections
+- Inspired by Actual Events: JDK 9/10/11: Side Effects from += on Java String : http://marxsoftware.blogspot.com/2018/06/JDK-8204322.html
+- Inspired by Actual Events: JDK 8 Versus JDK 10: Ternary/Unboxing Difference : http://marxsoftware.blogspot.com/2018/06/jdk8-jdk10-ternary-boxing-unboxing.html
+- 10 All-Time Great Books for Java Programmers - Best of Lot, Must Read : https://javarevisited.blogspot.com/2018/06/10-all-time-great-books-for-java.html
+- How to Reuse Java Streams - DZone Java : https://dzone.com/articles/how-to-replay-java-streams?utm_source=Top%205&utm_medium=email&utm_campaign=Top%205%202018-06-153
 
 
 Web Devlopment
@@ -36,7 +42,13 @@ Web Devlopment
 - Generation of diagrams and flowcharts from text in a similar manner as markdown : https://github.com/knsv/mermaid?files=1
 - ProppyJS | Functional props composition for UI components : https://proppyjs.com/
 - When (and why) you should use ES6 arrow functions — and when you shouldn’t : https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26
--Cool Javascript tips and Shortcuts : https://codeburst.io/cool-javascript-shortcuts-and-tips-for-everyday-use-66cd174ab216
+- Cool Javascript tips and Shortcuts : https://codeburst.io/cool-javascript-shortcuts-and-tips-for-everyday-use-66cd174ab216
+- Upcoming ESNext features - Part 1 | nec.is : https://nec.is/writing/upcoming-esnext-features-part-1/
+- ES2017 - Trailing Commas | DiscoverSDK Blog : http://www.discoversdk.com/blog/es2017-trailing-commas
+- How to find excellent refactoring opportunities - User Interfacing : https://userinterfacing.com/how-to-find-excellent-refactoring-opportunities/
+- Time-saving Chrome DevTools Shortcuts - Lucidchart : https://www.lucidchart.com/techblog/2018/04/17/time-saving-chrome-devtools-shortcuts/
+- Understanding the Almighty Reducer | CSS-Tricks : https://css-tricks.com/understanding-the-almighty-reducer/
+
 
 SQL :
 - 10 SQL tricks that you didn’t think were possible - JAXenter : https://jaxenter.com/10-sql-tricks-that-you-didnt-think-were-possible-125934.html
@@ -44,15 +56,22 @@ SQL :
 - Fun with SQL: Window functions in Postgres : https://www.citusdata.com/blog/2018/06/01/fun-with-sql-window-functions-in-postgresql/
 
 
-R:
+Other Languages:
 - Harry Potter and rankings with comperank : http://www.questionflow.org/2018/05/31/harry-potter-and-rankings-with-comperank/
+- Optimization tricks in Python: lists and tuples | Artem Golubin : https://rushter.com/blog/python-lists-and-tuples/?utm_source=hackernewsletter&utm_medium=email&utm_term=code
+- The 50 Best Free Datasets for Machine Learning - Gengo AI : https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/
 
 Tools :
 -  senorprogrammer/wtf: A personal information dashboard for your terminal. : https://github.com/senorprogrammer/wtf
-- critters/README.md at master · GoogleChromeLabs/critters · GitHub : https://github.com/GoogleChromeLabs/critters/blob/master/README.md
-- subliminal/README.md at master · gaearon/subliminal · GitHub : https://github.com/gaearon/subliminal/blob/master/README.md
+- critters: https://github.com/GoogleChromeLabs/critters/blob/master/README.md
+- subliminal Visual studio theme : https://github.com/gaearon/subliminal/blob/master/README.md
 - A Beginner’s Guide to Kubernetes - DZone Cloud : https://dzone.com/articles/a-beginners-guide-to-kubernetes?utm_source=Top%205&utm_medium=email&utm_campaign=Top%205%202018-06-013
 - A very brief introduction to Battlecry, a modern scaffolding tool for all languages and frameworks : https://codeburst.io/a-very-brief-introduction-to-samba-a-modern-scaffolding-tool-for-all-languages-and-frameworks-7ccc880ec7ca
+- Rollup: Introduction | PabloRosales : https://pablorosales.xyz/content/tutorials/tools/rollup-0/
+- Jenkins environment variables list for shell script build jobs : https://www.theserverside.com/tutorial/Jenkins-environment-variables-list-for-shell-script-build-jobs
+- Quick Tip: Grep in Git - DZone DevOps : https://dzone.com/articles/quick-tip-grep-in-git?edition=381208&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-06-13
+- TensorFlow.js — a practical guide – YellowAnt : https://blog.yellowant.com/tensorflow-js-a-practical-guide-2ed58327c455
+- ankane/dbx: A fast, easy-to-use database library for R : https://github.com/ankane/dbx
 
 
 General :
@@ -70,14 +89,13 @@ General :
 - Learn AWS - Best AWS Tutorials | Hackr.io : https://hackr.io/tutorials/learn-amazon-web-services-aws
 - Performance Reviews Are a Waste of Time – Bradfield : https://blog.bradfieldcs.com/performance-reviews-are-a-waste-of-time-87c88d7553b4
 - Generate beautiful list sites from your spreadsheets in seconds : http://spreadsheet2site.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn
-
+- Positioning Yourself to Coworkers as a Stealth Consultant - DaedTech : https://daedtech.com/positioning-yourself-to-coworkers-as-a-stealth-consultant/
+- Genuinely useful career resources for self-taught developers : https://medium.freecodecamp.org/genuinely-useful-career-resources-for-self-taught-developers-8e679cec25ab
+- Change the signs: how to use dynamic programming to solve a competitive programming question : https://medium.freecodecamp.org/just-change-the-signs-how-to-solve-a-competitive-programming-question-f9730e8f04a9
+- Is elegant Object Oriented Programming Functional Programming? : https://medium.com/@danilomoliveira/is-elegant-object-oriented-programming-functional-programming-2fe46e45660f
 
 Fun :
 
 - O RLY Parody Book Generator : https://dev.to/rly
 - Recursive Recipes | Make food from scratch : https://recursive.recipes/recipe/pancakes?amount=8&timelimit=1&ingredientsToBuild=
 - plainbudget: Minimalist Plain Text Budgeting : https://galvez.github.io/plainbudget/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn
-
-
-
-
