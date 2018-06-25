@@ -99,3 +99,55 @@ Fun :
 - O RLY Parody Book Generator : https://dev.to/rly
 - Recursive Recipes | Make food from scratch : https://recursive.recipes/recipe/pancakes?amount=8&timelimit=1&ingredientsToBuild=
 - plainbudget: Minimalist Plain Text Budgeting : https://galvez.github.io/plainbudget/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn
+
+
+
+Week 2 :
+
+Java
+- GitHub - buschmais/jqa-spring-plugin : https://github.com/buschmais/jqa-spring-plugin#jqassistant-spring-framework-plugin
+- Visualizing Eclipse Collections – Oracle Developers – Medium : https://medium.com/oracledevs/visualizing-eclipse-collections-646dad9533a9
+- Inheritance and Object Creation — Java – Suneet Srivastava – Medium : https://medium.com/@codedsun/inheritance-and-object-creation-java-2cebfac6cb5e
+- Bitfury Integrates Java, Allows for Private Chain Anchoring to Public ... : https://bitcoinmagazine.com/articles/bitfury-integrates-java-allows-private-chain-anchoring-public-networks/
+- Deploy Your Secure Spring Boot + Angular PWA as a Single Artifact | Okta Developer : https://developer.okta.com/blog/2018/06/18/spring-boot-angular-auth-code-flow
+- Why should Java Developer Use Spring to develop RESTful Web Services? : https://medium.com/javarevisited/why-java-developer-should-use-spring-to-develop-restful-web-services-efe36d7a6727
+- User impersonation with Spring Security : http://blog.marcosbarbero.com/user-impersonation-with-spring-security/
+- A Simple Blockchain in Java - DZone Security : https://dzone.com/articles/a-simplest-block-chain-in-java?edition=383214&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-06-20
+- The Current State of Java Value Types : https://www.infoq.com/news/2018/06/JavaValuesJun18
+- Inspired by Actual Events: Java's Ternary is Tricky with Autoboxing/Unboxing : http://marxsoftware.blogspot.com/2018/06/javas-ternary-is-tricky.html?m=1
+- Javarevisited: 3 Best Practices Java Programmers Can Learn From Spring Framework : https://javarevisited.blogspot.com/2018/06/3-best-practices-java-programmers-can-learn-from-spring-framework.html?m=1#ixzz5IsTxrXYc
+
+
+
+Other Programming languages
+- Optimization tricks in Python: lists and tuples | Artem Golubin : https://rushter.com/blog/python-lists-and-tuples/?utm_source=hackernewsletter&utm_medium=email&utm_term=code
+- GitHub - ankane/dbx: A fast, easy-to-use database library for R : https://github.com/ankane/dbx
+
+
+Tools
+- Webpack 4: Universal Code Splitting in React… The inventors are back baby! : https://blog.usejournal.com/webpack-4-universal-code-splitting-in-react-the-inventors-are-back-baby-453745f9665d
+- How to git revert a commit: A simple undo changes example : https://www.theserverside.com/tutorial/How-to-git-revert-a-commit-A-simple-undo-changes-example
+
+
+General
+﻿- Is elegant Object Oriented Programming Functional Programming? : https://medium.com/@danilomoliveira/is-elegant-object-oriented-programming-functional-programming-2fe46e45660f
+- Dynamic Programming vs Divide-and-Conquer – ITNEXT : https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe
+- All you need to know about “Big O Notation” to crack your next coding interview : https://medium.freecodecamp.org/all-you-need-to-know-about-big-o-notation-to-crack-your-next-coding-interview-9d575e7eec4
+- YAML: probably not so great after all : https://arp242.net/weblog/yaml_probably_not_so_great_after_all.html
+- Certificates for localhost - Let's Encrypt - Free SSL/TLS Certificates : https://letsencrypt.org/docs/certificates-for-localhost/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
+- Forgotten Employee : https://sites.google.com/site/forgottenemployee/?utm_source=hackernewsletter&utm_medium=email&utm_term=longreads
+- Functional Data Structures : https://cs.uwaterloo.ca/~plragde/flaneries/FDS/?utm_source=hackernewsletter&utm_medium=email&utm_term=books
+- Pros and cons of functional programming – ITNEXT : https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2
+
+Web Development
+- You have been using 'console' wrong the whole time : https://thedevs.network/blog/you-have-been-using-console-wrong-the-whole-time
+- GitHub's Top 10 JavaScript Projects - DZone Open Source : https://dzone.com/articles/githubs-top-10-javascript-projects-for-2017#utm_source=OpenSource&utm_medium=email&utm_campaign=ZoneLaunch%202018-06-18
+- 🚀 Introducing Akita: A New State Management Pattern for Angular Applications : https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8
+- How to display a "new version available" of your Progressive Web App : https://deanhume.com/displaying-a-new-version-available-progressive-web-app/
+- Don’t Use The Placeholder Attribute — Smashing Magazine : https://www.smashingmagazine.com/2018/06/placeholder-attribute/
+- Concurrent Iteration : https://dev.to/hoodwink73/concurrent-iteration-3c57
+- How to block third party scripts with a few lines of javascript : https://medium.com/snips-ai/how-to-block-third-party-scripts-with-a-few-lines-of-javascript-f0b08b9c4c0
+- Automatically Scroll The Window When The User Approaches The Viewport Edge In JavaScript : https://www.bennadel.com/blog/3460-automatically-scroll-the-window-when-the-user-approaches-the-viewport-edge-in-javascript.htm
+- Strapdown.js - Instant and elegant Markdown documents : http://strapdownjs.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn
+- Design Tip: Never Use Black by Ian Storm Taylor : https://ianstormtaylor.com/design-tip-never-use-black/?utm_source=hackernewsletter&utm_medium=email&utm_term=design
+
