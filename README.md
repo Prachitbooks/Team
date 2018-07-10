@@ -151,3 +151,69 @@ Web Development
 - Strapdown.js - Instant and elegant Markdown documents : http://strapdownjs.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn
 - Design Tip: Never Use Black by Ian Storm Taylor : https://ianstormtaylor.com/design-tip-never-use-black/?utm_source=hackernewsletter&utm_medium=email&utm_term=design
 
+
+
+week 3 :
+
+Java
+﻿- Spring Rest:Jackson’s JsonNode for Payload unaware request Handling : https://medium.com/@saibaburvr/spring-rest-jacksons-jsonnode-for-payload-unaware-request-handling-25a09e2b1ef5
+- 9 Things Java Programmers Should Learn in 2018 – Javarevisited – Medium : https://medium.com/javarevisited/9-things-java-programmers-should-learn-in-2018-3f0b2207dfc4
+- Riddling your way to master RxJava – Niklas Baudy – Medium : https://medium.com/@vanniktech/riddling-your-way-to-master-rxjava-145d5de99b55
+- DZone: Programming & DevOps news, tutorials & tools : https://dzone.com/
+- EC by Example: Min and Max – Donald Raab – Medium : https://medium.com/@donraab/ec-by-example-min-and-max-667ad7cc7fbc
+- Classification of Development Frameworks for Enterprise Applications | Java Code Geeks - 2018 : https://www.javacodegeeks.com/2018/06/classification-development-framework.html
+- Optional Dependency Injection using Spring : http://blog.marcosbarbero.com/optional-di-spring/
+- Annotation Processing in Java – Jintin – Medium : https://medium.com/@jintin/annotation-processing-in-java-3621cb05343a
+- New Java 11 Feature: Launch Single-File Source-Code Programs : https://medium.com/@afinlay/new-java-11-feature-launch-single-file-source-code-programs-fadd698abf54
+- Monitoring Java Spring Boot applications with Prometheus: Part 1 : https://blog.kubernauts.io/https-blog-kubernauts-io-monitoring-java-spring-boot-applications-with-prometheus-part-1-c0512f2acd7b
+- Spring WebFlux and rxjava2-jdbc – Netifi – Medium : https://medium.com/netifi/spring-webflux-and-rxjava2-jdbc-83a94e71ba04
+- Will Dropping Serialization from Java Remove the Vulnerabilities? : https://techspective.net/2018/06/27/will-dropping-serialization-from-java-remove-the-vulnerabilities/
+- Secure coding practices in Java: challenges and vulnerabilities | the morning paper : https://blog.acolyer.org/2018/06/27/secure-coding-practices-in-java-challenges-and-vulnerabilities/
+- How to test a route in Spark Java – Katerina – Medium : https://medium.com/@katerinaCodes/how-to-test-a-route-in-spark-java-437462a4479b
+- Spring Tips: Season 4 Recap : https://spring.io/blog/2018/06/20/spring-tips-season-4-recap
+- Inspired by Actual Events: Deferred Execution with Java's Consumer : http://marxsoftware.blogspot.com/2018/06/deferred-execution-java-consumer.html?m=1
+- https://www.vojtechruzicka.com/spring-boot-version/ : https://www.vojtechruzicka.com/spring-boot-version/
+- Optional Dependency Injection using Spring : http://blog.marcosbarbero.com/optional-di-spring/
+- How to Read a Thread Dump - DZone Java : https://dzone.com/articles/how-to-read-a-thread-dump?utm_source=Top%205&utm_medium=email&utm_campaign=Top%205%202018-06-293
+- Go Full Stack With Java in a Jiffy - DZone Java : https://dzone.com/articles/go-full-stack-with-java-in-a-jiffy?utm_source=Top%205&utm_medium=email&utm_campaign=Top%205%202018-06-293
+- Simple Guide to Learn Spring Boot Actuators with examples - opencodez : https://www.opencodez.com/java/spring-boot-actuators.htm
+- Why I Love Redis : https://content.pivotal.io/blog/why-i-love-redis
+- Secure coding practices in Java: challenges and vulnerabilities | the morning paper : https://blog.acolyer.org/2018/06/27/secure-coding-practices-in-java-challenges-and-vulnerabilities/
+
+
+
+Other Programming languages
+- 50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs : http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
+
+Tools
+- Advanced Git Commands: Rewriting History - DZone Open Source : https://dzone.com/articles/advanced-git-commands-rewriting-history
+- 6 Git Aha Moments | Henrik Warne's blog : https://henrikwarne.com/2018/06/25/6-git-aha-moments/
+- ✨ Immensely upgrade your development environment with these Visual Studio Code extensions : https://medium.freecodecamp.org/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530
+- git bundle - DEV Community 👩‍💻👨‍💻 : https://dev.to/gabeguz/git-bundle-2l5o
+
+
+General
+- 38 Actions and Insights to Become a Better Software Architect : https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b
+- DevTube - The best developer videos in one place : https://dev.tube/
+- Top 50 Coding Challenges in Hacker Rank – House Of Codes – Medium : https://medium.com/@yashka.troy/top-50-coding-challenges-in-hacker-rank-3d79c181528
+- Software Architecture: the 5 Patterns You Need to Know - NDepend : https://blog.ndepend.com/software-architecture-5-patterns-you-need-know/
+- 3 Programming Languages Java Devs Can Learn in 2018 : https://medium.com/javarevisited/3-programming-languages-java-devs-can-learn-in-2018-7573bf1057a5
+- Ask HN: What are the things that you have automated in your personal life? | Hacker News : https://news.ycombinator.com/item?id=17385291&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn
+- Anti-If: The missing patterns : https://code.joejag.com/2016/anti-if-the-missing-patterns.html?utm_source=hackernewsletter&utm_medium=email&utm_term=code
+- A one size fits all database doesn't fit anyone - All Things Distributed : https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html
+- Politeness or Bluntness in Code Reviews? Finally Settling the Matter : https://daedtech.com/politeness-bluntness-code-review/
+- What’s the Best Way to Pair? – Built to Adapt : https://builttoadapt.io/whats-the-best-way-to-pair-a8699f9beb81
+Web Development
+- The Trouble with D3 – DailyJS – Medium : https://medium.com/dailyjs/the-trouble-with-d3-4a84f7de011f
+- A minimal guide to ECMAScript Decorators – ITNEXT : https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e
+- How you can improve your workflow using the JavaScript console : https://medium.freecodecamp.org/how-you-can-improve-your-workflow-using-the-javascript-console-bdd7823a9472
+- NgRx Entity - Complete Practical Guide : https://blog.angular-university.io/ngrx-entity/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_258
+- material-dashboard/README.md at master · creativetimofficial/material-dashboard · GitHub : https://github.com/creativetimofficial/material-dashboard/blob/master/README.md
+- YouTube : https://m.youtube.com/watch?v=q4XmAy6_ucw
+- GitHub - mjbvz/vscode-lit-html: Adds syntax highlighting for html inside of JavaScript and TypeScript tagged template strings : https://github.com/mjbvz/vscode-lit-html
+- vuetify/README.md at dev · vuetifyjs/vuetify · GitHub : https://github.com/vuetifyjs/vuetify/blob/dev/README.md
+- A plain English introduction to JSON web tokens (JWT): what it is and what it isn't : https://medium.com/ag-grid/a-plain-english-introduction-to-json-web-tokens-jwt-what-it-is-and-what-it-isnt-8076ca679843
+- Learn these JavaScript fundamentals and become a better developer : https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf
+- Understanding Redux: The World’s Easiest Guide to Beginning Redux : https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
+- Vue.js: the good, the meh, and the ugly – Pier Bover – Medium : https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684
+- Polly.JS : https://netflix.github.io/pollyjs/#/
