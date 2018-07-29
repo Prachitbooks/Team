@@ -221,59 +221,73 @@ Web Development
 
 Week 4 :
 
-- Encrypting and Decrypting Files in Java | Baeldung : http://www.baeldung.com/java-cipher-input-output-stream
+Un-Categorised
+
+- Simple, correct, fast: in that order | Drew DeVault’s Blog : http://snip.ly/2f4r67/#https://drewdevault.com/2018/07/09/Simple-correct-fast.html
+- Card Surge : http://card.surge.sh/
+- How to Make Legacy Code Reactive – ITNEXT : https://itnext.io/how-to-make-legacy-code-reactive-2debcb3d0a40
+- Michael Fogleman : https://www.michaelfogleman.com/rush/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
+- Seedbank : http://tools.google.com/seedbank/?utm_source=hackernewsletter&utm_medium=email&utm_term=data
+- Chaos Engineering - withstanding turbulent conditions in production - codecentric AG Blog : https://blog.codecentric.de/en/2018/07/chaos-engineering/
+
+Java
+
+﻿- Encrypting and Decrypting Files in Java | Baeldung : http://www.baeldung.com/java-cipher-input-output-stream
 - F2F with reality on sorting in JAVA – Swayam Raina – Medium : https://medium.com/@swayamraina/f2f-with-reality-on-sorting-in-java-99144ac63b6
 - Inspired by Actual Events: Deferred Execution with Java's Predicate : http://marxsoftware.blogspot.com/2018/07/deferred-execution-java-predicate.html?m=1
-- RESTful APIs tutorial: Learn key web service design principles : https://www.theserverside.com/video/A-RESTful-APIs-tutorial-Learn-key-web-service-design-principles
-- Simple, correct, fast: in that order | Drew DeVault’s Blog : http://snip.ly/2f4r67/#https://drewdevault.com/2018/07/09/Simple-correct-fast.html
-- REST vs. GraphQL: A Critical Review – Good API : https://blog.goodapi.co/rest-vs-graphql-a-critical-review-5f77392658e7
-- The open-plan office is a terrible, horrible, no good, very bad idea : https://m.signalvnoise.com/the-open-plan-office-is-a-terrible-horrible-no-good-very-bad-idea-42bd9cd294e3
-- Forget about Clean Code, Let's Embrace Compassionate Code - DZone Agile : https://dzone.com/articles/forget-about-clean-code-lets-embrace-compassionate?edition=386195&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-07-11
-- system-design-primer/README.md at master · donnemartin/system-design-primer · GitHub : https://github.com/donnemartin/system-design-primer/blob/master/README.md
-- Card Surge : http://card.surge.sh/
-- How to Use Emojis as Icons – Preethi Sam : https://preethisam.com/2018/06/25/how-to-use-emojis-as-icons/
 - Synchronized vs Concurrent Collections – Sachin Tyagi – Medium : https://medium.com/@sachintech.tyagi/synchronized-vs-concurrent-collections-4506e56d3f31
 - The Cloud Native Java Modernization Path Looks a Lot Like Reactive - DZone Java : https://dzone.com/articles/the-cloud-native-java-modernization-path-looks-a-l
 - How Pivotal Cloud Foundry 2.2 Helps You Improve the Metrics that Matter. : https://content.pivotal.io/blog/how-pivotal-cloud-foundry-2-2-helps-you-improve-the-metrics-that-matter
-- The div that look different in every browser : https://codepen.io/MartijnCuppens/pen/MXojmw
-- 15 HTML element methods you’ve potentially never heard of : https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a
-- https://benmccormick.org/2018/07/04/evil-javascript/ : https://benmccormick.org/2018/07/04/evil-javascript/
-- Playing with Javascript Promises: A Comprehensive Approach : https://codeburst.io/playing-with-javascript-promises-a-comprehensive-approach-25ab752c78c3
-- How Angular Resolves Dynamic Components – Bits and Pieces : https://blog.bitsrc.io/how-angular-resolves-dynamic-components-a6f6a86609a0
-- How to Make Legacy Code Reactive – ITNEXT : https://itnext.io/how-to-make-legacy-code-reactive-2debcb3d0a40
 - JVM garbage collector murder mystery – Ai Build TechBlog – Medium : https://medium.com/ai-build-techblog/jvm-garbage-collector-murder-mystery-1b6a4aec5117
-- Financial firms, vendors push self-service software delivery : https://www.theserverside.com/news/252444600/Financial-firms-vendors-push-self-service-software-delivery
-- Michael Fogleman : https://www.michaelfogleman.com/rush/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
-- GitHub - chubin/cheat.sh: the only cheat sheet you need : https://github.com/chubin/cheat.sh?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn
-- Essential Chrome Developer Tools: Beginner to Master : https://apsdehal.in/blog/chrome-developer-tools-to-master?utm_source=hackernewsletter&utm_medium=email&utm_term=code
-- Seedbank : http://tools.google.com/seedbank/?utm_source=hackernewsletter&utm_medium=email&utm_term=data
-- High-Skilled White-Collar Work? Machines Can Do That, Too - The New York Times : https://www.nytimes.com/2018/07/07/business/economy/algorithm-fashion-jobs.html?utm_source=hackernewsletter&utm_medium=email&utm_term=data
 - The Reactive Universe for Java Devs - DZone Java : https://dzone.com/articles/the-reactive-universe-for-java-devs
 - Java's Magic Sauce - Azul Systems, Inc. : https://www.azul.com/javas-magic-sauce/
 - Iteration Over Java Collections with High Performance - CodeProject : https://www.codeproject.com/Tips/1190293/Iteration-Over-Java-Collections-with-High-Performa
 - Inspired by Actual Events: Deferred Execution with Java's Consumer : http://marxsoftware.blogspot.com/2018/06/deferred-execution-java-consumer.html?m=1
 - Inspired by Actual Events: Predicate::not Coming to Java : http://marxsoftware.blogspot.com/2018/05/predicate-not-java-11.html?m=1
-- Don’t let your ethical judgement go to sleep - O'Reilly Media : https://www.oreilly.com/ideas/dont-let-your-ethical-judgement-go-to-sleep
 - JAX Magazine is out: All aboard the IDE train! - JAXenter : https://jaxenter.com/jax-magazine-aboard-ide-train-145763.html
-- Forget about Clean Code, let’s embrace Compassionate Code » Thinking Inside a Bigger Box : http://johannesbrodwall.com/2018/06/24/forget-about-clean-code-lets-embrace-compassionate-code/
-- How to write better code » Thinking Inside a Bigger Box : http://johannesbrodwall.com/2018/06/26/how-to-write-better-code/
-- Commit Message Generator : http://whatthecommit.com/
-- Epic Pull Requests : http://epicpullrequests.tumblr.com/
 - Javarevisited: Top 9 Java Programming Books - Best of lot, Must Read : https://javarevisited.blogspot.com/2018/07/top-9-java-programming-books-best-must-read.html?m=1
-- How to make sure your Progressive Web App keeps its Lighthouse audit score : https://medium.freecodecamp.org/how-to-make-sure-your-progressive-web-app-keeps-its-lighthouse-audit-score-4c11cf514e1a
-- The definitive guide to JavaScript Dates : https://flaviocopes.com/javascript-dates/
-- Psychosomatic, Lobotomy, Saw: How Inlined Code Makes For Confusing Profiles : http://psy-lob-saw.blogspot.com/2018/07/how-inlined-code-confusing-profiles.html?m=1
-- Learn the Fundamentals of Webpack v4 with core maintainer of Webpack, Sean Larkin : https://frontendmasters.com/courses/webpack-fundamentals/
-- The Extensive Guide to Creating Streams in RxJS – Angular In Depth : https://blog.angularindepth.com/the-extensive-guide-to-creating-streams-in-rxjs-aaa02baaff9a
-- Managing Complex Waiting Experiences on Web UIs – Fatih Kadir Akın – Medium : https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8
-- Web Architecture 101 – VideoBlocks Product & Engineering : https://engineering.videoblocks.com/web-architecture-101-a3224e126947?ref=abhimanyu
 - Monitoring Disk Usage and Other Metrics in Java | Baeldung : http://www.baeldung.com/java-metrics?__s=rzb7pty1isp4c1pqgp8z&utm_source=drip&utm_medium=email&utm_campaign=Latest+article+about+Java+%E2%80%93+on+Baeldung
 - How to Get the Size of an Object in Java | Baeldung : http://www.baeldung.com/java-size-of-object?__s=rzb7pty1isp4c1pqgp8z&utm_source=drip&utm_medium=email&utm_campaign=Latest+article+about+Java+%E2%80%93+on+Baeldung
 - Interpreter Design Pattern in Java | Baeldung : http://www.baeldung.com/java-interpreter-pattern?__s=rzb7pty1isp4c1pqgp8z&utm_source=drip&utm_medium=email&utm_campaign=Latest+article+about+Java+%E2%80%93+on+Baeldung
 - Scaling Microservices with Message Queues, Spring Boot and Kubernetes : https://itnext.io/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-17ff670b07ed
 - vladmihalcea.com : https://vladmihalcea.com/hibernate-query-plan-cache/
-- Chaos Engineering - withstanding turbulent conditions in production - codecentric AG Blog : https://blog.codecentric.de/en/2018/07/chaos-engineering/
 - Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1 : https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html
 - Functional Reactive Programming - Streams on steroids | NexoCode Blog : https://www.nexocode.com/blog/posts/reactive-programming/
+
+Web Development
+
+- How to Use Emojis as Icons – Preethi Sam : https://preethisam.com/2018/06/25/how-to-use-emojis-as-icons/
+- The div that look different in every browser : https://codepen.io/MartijnCuppens/pen/MXojmw
+- 15 HTML element methods you’ve potentially never heard of : https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a
+- https://benmccormick.org/2018/07/04/evil-javascript/ : https://benmccormick.org/2018/07/04/evil-javascript/
+- Playing with Javascript Promises: A Comprehensive Approach : https://codeburst.io/playing-with-javascript-promises-a-comprehensive-approach-25ab752c78c3
+- How Angular Resolves Dynamic Components – Bits and Pieces : https://blog.bitsrc.io/how-angular-resolves-dynamic-components-a6f6a86609a0
+- Essential Chrome Developer Tools: Beginner to Master : https://apsdehal.in/blog/chrome-developer-tools-to-master?utm_source=hackernewsletter&utm_medium=email&utm_term=code
+- How to make sure your Progressive Web App keeps its Lighthouse audit score : https://medium.freecodecamp.org/how-to-make-sure-your-progressive-web-app-keeps-its-lighthouse-audit-score-4c11cf514e1a
+- The definitive guide to JavaScript Dates : https://flaviocopes.com/javascript-dates/
+- Learn the Fundamentals of Webpack v4 with core maintainer of Webpack, Sean Larkin : https://frontendmasters.com/courses/webpack-fundamentals/
 - The Extensive Guide to Creating Streams in RxJS – Angular In Depth : https://blog.angularindepth.com/the-extensive-guide-to-creating-streams-in-rxjs-aaa02baaff9a
+- Managing Complex Waiting Experiences on Web UIs – Fatih Kadir Akın – Medium : https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8
+- Web Architecture 101 – VideoBlocks Product & Engineering : https://engineering.videoblocks.com/web-architecture-101-a3224e126947?ref=abhimanyu
+- The Extensive Guide to Creating Streams in RxJS – Angular In Depth : https://blog.angularindepth.com/the-extensive-guide-to-creating-streams-in-rxjs-aaa02baaff9a
+
+General
+
+- RESTful APIs tutorial: Learn key web service design principles : https://www.theserverside.com/video/A-RESTful-APIs-tutorial-Learn-key-web-service-design-principles
+- REST vs. GraphQL: A Critical Review – Good API : https://blog.goodapi.co/rest-vs-graphql-a-critical-review-5f77392658e7
+- The open-plan office is a terrible, horrible, no good, very bad idea : https://m.signalvnoise.com/the-open-plan-office-is-a-terrible-horrible-no-good-very-bad-idea-42bd9cd294e3
+- Forget about Clean Code, Let's Embrace Compassionate Code - DZone Agile : https://dzone.com/articles/forget-about-clean-code-lets-embrace-compassionate?edition=386195&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-07-11
+- system-design-primer/README.md at master · donnemartin/system-design-primer · GitHub : https://github.com/donnemartin/system-design-primer/blob/master/README.md
+- Financial firms, vendors push self-service software delivery : https://www.theserverside.com/news/252444600/Financial-firms-vendors-push-self-service-software-delivery
+- GitHub - chubin/cheat.sh: the only cheat sheet you need : https://github.com/chubin/cheat.sh?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn
+- High-Skilled White-Collar Work? Machines Can Do That, Too - The New York Times : https://www.nytimes.com/2018/07/07/business/economy/algorithm-fashion-jobs.html?utm_source=hackernewsletter&utm_medium=email&utm_term=data
+- Don’t let your ethical judgement go to sleep - O'Reilly Media : https://www.oreilly.com/ideas/dont-let-your-ethical-judgement-go-to-sleep
+- Forget about Clean Code, let’s embrace Compassionate Code » Thinking Inside a Bigger Box : http://johannesbrodwall.com/2018/06/24/forget-about-clean-code-lets-embrace-compassionate-code/
+- How to write better code » Thinking Inside a Bigger Box : http://johannesbrodwall.com/2018/06/26/how-to-write-better-code/
+- Psychosomatic, Lobotomy, Saw: How Inlined Code Makes For Confusing Profiles : http://psy-lob-saw.blogspot.com/2018/07/how-inlined-code-confusing-profiles.html?m=1
 - "Real developers don't use UIs" – Design at IBM – Medium : https://medium.com/design-ibm/real-developers-dont-use-uis-daea7404fb4e
+
+Fun
+
+- Commit Message Generator : http://whatthecommit.com/
+- Epic Pull Requests : http://epicpullrequests.tumblr.com/
