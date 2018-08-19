@@ -291,3 +291,86 @@ Fun
 
 - Commit Message Generator : http://whatthecommit.com/
 - Epic Pull Requests : http://epicpullrequests.tumblr.com/
+
+
+
+Week 5 :
+
+Java
+
+- 37 Best Java EE Books of All Time - BookAuthority : https://bookauthority.org/books/best-java-ee-books
+- Akka anti-patterns: Java serialization - JAXenter : https://jaxenter.com/akka-java-serialization-147078.html
+- Understanding Vert.x: Event Loop – Alexey Soshin – Medium : https://medium.com/@alexey.soshin/understanding-vert-x-event-loop-46373115fb3e
+- Inspired by Actual Events: Memory-Hogging Enum.values() Method : http://marxsoftware.blogspot.com/2018/07/memory-hogging-enumvalues.html?m=1
+- value-based frozen arrays : http://cr.openjdk.java.net/~jrose/arrays/frozen-array-value-rules.html
+- 10 Tips to Become a RockStar Java Developer in 2018 : https://hackernoon.com/10-tips-to-become-a-rockstar-java-developer-in-2018-d4b13eb27176
+- Improve Application Performance with These Advanced GC Techniques | OverOps Blog : https://blog.takipi.com/improve-your-application-performance-with-garbage-collection-optimization/
+- Leveraging Lambda Expressions for Lazy Evaluation in Java – { 4Comprehension } : https://4comprehension.com/leveraging-lambda-expressions-for-lazy-evaluation-in-java/
+- Effective Java, Third Edition - Keepin' it Effective : https://www.infoq.com/presentations/effective-java-third-edition
+- Java Enums: How to Make Enums More Useful - DZone Java : https://dzone.com/articles/java-enums-how-to-make-much-more-useful
+- How to Use Java Stream Collectors - DZone Java : https://dzone.com/articles/java-stream-collectors?utm_source=Top%205&utm_medium=email&utm_campaign=Top%205%202018-07-273
+- Learning the Spring Expression Language (SpEL) - DZone Java : https://dzone.com/articles/learn-spring-expression-language-with-examples
+- String.hashCode() is plenty unique – data, code and conversation : http://sigpwned.com/2018/08/10/string-hashcode-is-plenty-unique/
+- String.hashCode() is not even a little unique - java : https://www.reddit.com/r/java/comments/95yslq/
+- The Functional Style — Part 1 - DZone Java : https://dzone.com/articles/the-functional-style-part-1
+
+Web Development
+
+- 3 Essential Front-End Checklists for Web Developers : https://levelup.gitconnected.com/3-essential-front-end-checklists-for-web-developers-d873b226b1f0
+- https://vuehandbook.com : https://vuehandbook.com/
+- Google - Site Reliability Engineering : https://landing.google.com/sre/book/chapters/production-environment.html
+- Optimizing Angular application load performance – Grano – Medium : https://medium.com/grano/optimizing-angular-application-load-performance-6bb796b1a7c1
+- Boosting Angular App Performance with Local Change Detection : https://blog.bitsrc.io/boosting-angular-app-performance-with-local-change-detection-8a6a3afa8d4d
+- Building simple Websocket web application using Angular, Vert.x and Fibers - Dreamix Group : https://dreamix.eu/blog/frontpage/building-simple-websocket-web-application-using-angular-vert-x-and-fibers
+- Why AngularJS is my preferred framework for software development : https://medium.freecodecamp.org/why-is-angularjs-the-most-preferred-framework-for-software-development-5253c2c569c9
+- Angular Elements!!!!! – jinal shah – Medium : https://medium.com/@jinalshah999/angular-elements-f7e1b3b475bb
+- CSS Scan - Instantly check or copy computed CSS from any element on the internet : https://guivr.github.io/cssscan/?utm_medium=email&utm_source=hackernewsletter&utm_term=design
+- CSS Grid Layout Generator | LayoutIt! : https://www.layoutit.com/grid?utm_source=hackernewsletter&utm_medium=email&utm_term=design
+- Common webpage design mistakes : http://blog-en.tilda.cc/articles-website-design-mistakes
+- Redux vs. The React Context API : https://daveceddia.com/context-api-vs-redux/
+- Refresh – A fresh approach to the browser : https://refresh.study/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn
+- 7 Javascript EEG Mind Reading Libraries for 2018 – Bits and Pieces : https://blog.bitsrc.io/7-javascript-eeg-mind-reading-libraries-for-2018-9a8e28544cd7
+- JavaScript’s Reduce Method Explained By Going On a Diet : https://codeburst.io/javascripts-reduce-method-explained-by-going-on-a-diet-71cdeb625147
+- Stateful Monads in JavaScript - Part 1 – Bits and Pieces : https://blog.bitsrc.io/stateful-monads-in-javascript-part-1-f772ac26195c
+- Stateful Monads in JavaScript - Part 2 – Bits and Pieces : https://blog.bitsrc.io/stateful-monads-in-javascript-part-2-7a6fa65f0ad9
+- Hello WebAssembly – Commit Log – Medium : https://medium.com/commitlog/hello-webassembly-882bba5c9fb7
+- Angular Console : https://angularconsole.com/
+- Angular 7 is coming – ITNEXT : https://itnext.io/angular-7-is-coming-766c2bf644f9
+- Xterm.js : https://xtermjs.org/
+- 7 Hacks for ES6 Developers – DailyJS – Medium : https://medium.com/dailyjs/7-hacks-for-es6-developers-4e24ff425d0b
+- The Cost Of JavaScript In 2018 – Addy Osmani – Medium : https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
+
+Other Programming languages
+
+- Database normalization - Wikipedia : https://en.m.wikipedia.org/wiki/Database_normalization
+- ML Universal Guides  |  Google Developers : https://developers.google.com/machine-learning/guides/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
+- Learning Math for Machine Learning : https://blog.ycombinator.com/learning-math-for-machine-learning/
+- UUIDs and Compressibility | Richard Startin's Blog : http://richardstartin.uk/uuids-and-compressibility/
+- 100-Days-Of-ML-Code/README.md at master · Avik-Jain/100-Days-Of-ML-Code · GitHub : https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/README.md
+
+Tools
+
+﻿- Git-Secrets - Prevents You From Committing Secrets And Credentials Into Git Repositories - MORETIP : https://moretip.com/git-secrets-prevents-you-from-committing-secrets-and-credentials-into-git-repositories/
+- githooks/README.md at master · rycus86/githooks · GitHub : https://github.com/rycus86/githooks/blob/master/README.md
+- Branching strategy of the Spring Data projects. : http://blog.schauderhaft.de/2017/09/07/workflow/
+- Code Cop: Only modified files in Jenkins : http://blog.code-cop.org/2018/07/only-modified-files-in-jenkins.html?m=1
+- Top 20 Git Commands with Examples - DZone Open Source : https://dzone.com/articles/top-20-git-commands-with-examples?utm_source=Top%205&utm_medium=email&utm_campaign=Top%205%202018-07-273
+- NPM Can Do That? - DZone Web Dev : https://dzone.com/articles/npm-can-do-that
+- Releases · jesseduffield/lazygit · GitHub : https://github.com/jesseduffield/lazygit/releases
+
+General
+
+- programmers-oath/README.md at master · c0nstantx/programmers-oath · GitHub : https://github.com/c0nstantx/programmers-oath/blob/master/README.md
+- GitHub - dylanbeattie/rockstar: The Rockstar programming language specification : https://github.com/dylanbeattie/rockstar
+- The Art of Picking Dependencies • Todd Ginsberg : https://todd.ginsberg.com/post/the-art-of-picking-dependencies/
+- 2013 - Art+Logic: Custom Software Development : https://artandlogic.com/2013/amp/
+- Vimium, a Browser for Hackers - DZone Web Dev : https://dzone.com/articles/vimium-a-browser-for-hackers
+- Why JSON isn't a Good Configuration Language - Lucidchart : https://www.lucidchart.com/techblog/2018/07/16/why-json-isnt-a-good-configuration-language/
+- Goodbye HipChat: Slack and Atlassian Team Up on Chat Software - Bloomberg : https://www.bloomberg.com/news/articles/2018-07-26/slack-and-atlassian-team-up-to-take-on-microsoft-in-chat-software?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
+- Teach Yourself Computer Science : https://teachyourselfcs.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn
+- Competitive Programmer's Handbook : https://cses.fi/book/index.html?utm_source=hackernewsletter&utm_medium=email&utm_term=books
+- A 4-Day Workweek? A Test Run Shows a Surprising Result - The New York Times : https://www.nytimes.com/2018/07/19/world/asia/four-day-workweek-new-zealand.html?utm_source=hackernewsletter&utm_medium=email&utm_term=working
+- I’m a very slow thinker | Derek Sivers : https://sivers.org/slow
+- Tips for a successful switch to a standing desk - DEV Community 👩‍💻👨‍💻 : https://dev.to/jerodsanto/tips-for-a-successful-switch-to-a-standing-desk-4p8o
+- Aaron Longwell | Why Software Development Requires Servant Leaders | Culture Foundry : https://adl.io/essays/why-software-development-requires-servant-leaders/
+- GitHub Résumé : http://resume.github.io/
