@@ -374,3 +374,94 @@ General
 - Tips for a successful switch to a standing desk - DEV Community 👩‍💻👨‍💻 : https://dev.to/jerodsanto/tips-for-a-successful-switch-to-a-standing-desk-4p8o
 - Aaron Longwell | Why Software Development Requires Servant Leaders | Culture Foundry : https://adl.io/essays/why-software-development-requires-servant-leaders/
 - GitHub Résumé : http://resume.github.io/
+
+Week 7:
+
+Java
+
+- Libraries, Choosing the Right One | The Java Source : https://blogs.oracle.com/java/libraries-java-magazine-july-aug-2018
+- Tip: Use Logging Levels Consistently - Reflectoring : https://reflectoring.io/logging-levels/
+- Tip: Use a Human-Readable Logging Format - Reflectoring : https://reflectoring.io/logging-format/
+- Java Global Exception Handler | Baeldung : https://www.baeldung.com/java-global-exception-handler?utm_source=drip&utm_medium=email&utm_campaign=Latest+article+about+Java+%E2%80%93+on+Baeldung
+- Spring Boot integration in IntelliJ IDEA : https://blog.frankel.ch/spring-boot-integration-intellij-idea/
+- Microservices for Java Developers: Microservices Communication | Java Code Geeks - 2018 : https://www.javacodegeeks.com/2018/08/microservices-java-developers-microservices-communication.html
+- Introduction to Concurrency in Spring Boot | E4developer : https://www.e4developer.com/2018/03/30/introduction-to-concurrency-in-spring-boot/
+- Inspired by Actual Events: JDK 12, Merging Collectors, and the Challenge of Naming : http://marxsoftware.blogspot.com/2018/08/jdk-12-merging-collectors-naming-challenge.html?m=1
+- What to Look for in Java 9 Code | Upsource Blog : https://blog.jetbrains.com/upsource/2018/08/08/what-to-look-for-in-java-9-code/
+- 10 Excellent Ways to Secure Your Spring Boot Application | Okta Developer : https://developer.okta.com/blog/2018/07/30/10-ways-to-secure-spring-boot
+- 5 Reasons to Use RxJava in Your Projects – codeburst : https://codeburst.io/5-reasons-to-use-rxjava-in-your-projects-5bd5f8a8136e
+- Tip: Provide Contextual Information in Log Messages - reflectoring : https://reflectoring.io/logging-context/
+- How to Configure a Human-Readable Logging Format with Logback and Descriptive Logger - reflectoring : https://reflectoring.io/logging-format-logback/
+- Use JDBI with Spring Boot : https://mdeinum.github.io/2018-08-13-Use-JDBI-With-Spring-Boot/
+- How to Configure Environment-Specific Logging Behavior with Spring Boot - reflectoring : https://reflectoring.io/profile-specific-logging-spring-boot/
+- Effectively Sealed Classes in Java – { 4Comprehension } : https://4comprehension.com/effectively-sealed-classes-in-java/
+- Why String is Immutable in Java? | Baeldung : https://www.baeldung.com/java-string-immutable?utm_source=drip&utm_medium=email&utm_campaign=Latest+article+about+Java+%E2%80%93+on+Baeldung
+- Write less code with Project Lombok – Trabe – Medium : https://medium.com/trabe/write-less-code-with-project-lombok-df6cc7a5f8cf
+- On becoming a Java Champion – info.michael-simons.eu : https://info.michael-simons.eu/2018/08/20/on-becoming-a-java-champion/
+- Looking at randomness and performance for hash codes : https://vanilla-java.github.io/2018/08/15/Looking-at-randomness-and-performance-for-hash-codes.html
+- Oogways: Advice on Optional in Java 8 - DZone Java : https://dzone.com/articles/java8oogways-more-advice-on-optional
+
+Web Development
+
+- How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with… : https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5
+- How to escape async/await hell – freeCodeCamp : https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c
+- Keeping up in the JavaScript world 🏃‍ - DEV Community 👩‍💻👨‍💻 : https://dev.to/superkarolis/keeping-up-in-the-javascript-world--50pl
+- Angular Console : https://angularconsole.com/
+- Call operator vs pipeline · GitHub : https://gist.github.com/jakearchibald/4202cae11022defd7c13b37005704e36
+- Async error handling: N² ways to shoot yourself in the foot : https://hackernoon.com/n%C2%B2-ways-to-shoot-yourself-in-the-foot-error-handling-with-async-await-and-promises-87f30cda1681
+- Front-End-Performance-Checklist/README.md at master · thedaviddias/Front-End-Performance-Checklist · GitHub : https://github.com/thedaviddias/Front-End-Performance-Checklist/blob/master/README.md
+- This one line of Javascript made FT.com 10 times slower : https://medium.com/ft-product-technology/this-one-line-of-javascript-made-ft-com-10-times-slower-5afb02bfd93f
+- Cool 404 Page | Codier : https://codier.io/challenge/hashnode
+- Announcing TypeScript 3.0 | TypeScript : https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/
+- Drop 20K from your production Angular app - Bendyworks : https://bendyworks.com/blog/drop-20k-from-your-production-angular-app?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+- 10 Things You Will Eventually Learn About JavaScript Projects : https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a
+- Level up your .filter game | CSS-Tricks : https://css-tricks.com/level-up-your-filter-game/
+- The 2018 Web Developer Roadmap – codeburst : https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d
+- A quick introduction to web security – freeCodeCamp : https://medium.freecodecamp.org/a-quick-introduction-to-web-security-f90beaf4dd41
+- How JavaScript works: an overview of the engine, the runtime, and the call stack : https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
+
+Other Programming languages
+
+- A beginner's guide to database multitenancy - Vlad Mihalcea : https://vladmihalcea.com/database-multitenancy/
+- Beyond Basic R - The USGS OWI blog : https://owi.usgs.gov/blog/tags/beyond-basic-r/
+- Julia 1.0 : https://julialang.org/blog/2018/08/one-point-zero?utm_source=hackernewsletter&utm_medium=email&utm_term=code
+- SQL: Nested Window Functions and Time Series | The Space Lab in Space : https://llvllatrix.wordpress.com/2018/08/06/sql-nested-window-functions-and-time-series/
+- Brian Likes Postgres : https://www.brianlikespostgres.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=data
+- How to Implement a Custom, Sequence-Based IdGenerator : https://www.thoughts-on-java.org/custom-sequence-based-idgenerator/
+
+Tools
+
+﻿- Git - Tips and Tricks : https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks
+- 11 Painful Git Interview Questions You Will Cry On - DEV Community 👩‍💻👨‍💻 : https://dev.to/aershov24/11-painful-git-interview-questions-you-will-cry-on-1n2g
+- Learn Git Branching : https://learngitbranching.js.org/
+- Follow these simple rules and you’ll become a Git and GitHub master : https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f
+- Git Staging Area: Explained Like I'm Five - DEV Community 👩‍💻👨‍💻 : https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh
+
+General
+
+- Everything Is Fast For Small n : https://blog.codinghorror.com/everything-is-fast-for-small-n/
+- 10 tips for becoming a better programmer - TechRepublic : https://www.techrepublic.com/article/10-tips-for-becoming-a-better-programmer/
+- Easier Than Fizz Buzz - Why Can't Programmers Print 100 to 1? - Rajiv Popat - ThousandtyOne! - .NET, Life and Logical Thoughts By Rajiv Popat : http://www.thousandtyone.com/blog/EasierThanFizzBuzzWhyCantProgrammersPrint100To1.aspx
+- News - Project Euler : https://projecteuler.net/news
+- Exercism : https://exercism.io/
+- Inversion of Control Containers and the Dependency Injection pattern : https://martinfowler.com/articles/injection.html#InversionOfControl
+- Don't Do This in Production · Stephen Mann : https://stephenmann.io/post/dont-do-this-in-production/
+- What they don’t tell you about event sourcing – Hugo Rocha – Medium : https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a
+- awesome-selfhosted/README.md at master · Kickball/awesome-selfhosted · GitHub : https://github.com/Kickball/awesome-selfhosted/blob/master/README.md#continuous-integration
+- Decorator Design Patterns – Adesh Srivastava – Medium : https://medium.com/@adeshsrivastava0/decorator-design-patterns-3d6ed6d5aba9
+- Shuffling algorithms and randomization to improve algorithm‘s runtime. : https://medium.com/@Awdesh/shuffling-algorithms-and-randomization-to-improve-algorithm-s-runtime-47f7fc705df
+- re:Work - Guide: Understand team effectiveness : https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/identify-dynamics-of-effective-teams/
+- Code Review Guidelines : https://blog.philipphauer.de/code-review-guidelines/
+- Being a Technically Adept Scrum Master : https://blog.scottlogic.com/2018/08/01/being-a-technically-adept-scrum-master.html
+- Want to Remember Everything You'll Ever Learn? Surrender to This Algorithm | WIRED : https://www.wired.com/2008/04/ff-wozniak/?utm_source=hackernewsletter&utm_medium=email&utm_term=classics
+- Code Review Review is the Manager's Job : https://hecate.co/blog/code-review-review-is-the-managers-job
+- Clean Coder Blog : http://blog.cleancoder.com/uncle-bob/2018/08/13/TooClean.html
+- HTTPS security best practices - Advanced Web Machinery : https://advancedweb.hu/2018/08/21/https_security/
+- Coder IDE - The Next-gen IDE on the ☁️ - DEV Community 👩‍💻👨‍💻 : https://dev.to/sethusenthil/coder-ide---the-next-gen-ide-on-the--1b99
+- unmaintainable-code/README.md at master · Droogans/unmaintainable-code · GitHub : https://github.com/Droogans/unmaintainable-code/blob/master/README.md
+
+Fun
+
+- Quiz: AWS has terrible icons (results will be sent to AWS) - programming : https://www.reddit.com/r/programming/comments/951m86/quiz_aws_has_terrible_icons_results_will_be_sent/
+- Vim Commands | Oh Shit Vim : https://ohshitvim.com/
+- Oh, shit, git! : https://ohshitgit.com/
