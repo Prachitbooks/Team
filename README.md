@@ -465,3 +465,136 @@ Fun
 - Quiz: AWS has terrible icons (results will be sent to AWS) - programming : https://www.reddit.com/r/programming/comments/951m86/quiz_aws_has_terrible_icons_results_will_be_sent/
 - Vim Commands | Oh Shit Vim : https://ohshitvim.com/
 - Oh, shit, git! : https://ohshitgit.com/
+
+
+week 8 :
+
+Java
+
+﻿- Functional programming in Java with Vavr – Pragmatists : https://blog.pragmatists.com/functional-programming-in-java-with-vavr-9861e704301c
+- 75 Best Java Books of All Time - BookAuthority : https://bookauthority.org/books/best-java-books
+- Java Memory Management – Mindorks – Medium : https://medium.com/mindorks/java-memory-management-6e7ccafafcc1
+- Java Libraries are Your Lambda Enemy – IOpipe Blog : https://read.iopipe.com/java-libraries-are-your-lambda-enemy-6c9467321d2b
+- Hibernate Tips: Map 1 Entity Attribute to 2 Columns : https://www.thoughts-on-java.org/hibernate-tips-map-1-attribute-2-columns/
+- If You're Using Java’s Scanner Class for Keyboard Input, You're Doing it Wrong - DZone Java : https://dzone.com/articles/if-youre-using-javas-scanner-class-for-keyboard-in
+- Design a Fluent API in Java - DZone Integration : https://dzone.com/articles/java-fluent-api-design
+- Implementing a Sliding Window Stream/Spliterator in Java - DZone Java : https://dzone.com/articles/implementing-a-sliding-window-streamspliterator-in?edition=393202&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-09-08
+- Configuring a Tomcat Connection Pool in Spring Boot | Baeldung : https://www.baeldung.com/spring-boot-tomcat-connection-pool?__s=rzb7pty1isp4c1pqgp8z
+- Spring Autowiring of Generic Types | Baeldung : https://www.baeldung.com/spring-autowire-generics?__s=rzb7pty1isp4c1pqgp8z
+- Default methods in Java 8, and what it changes in API design : https://blog.frankel.ch/default-methods-java-8/
+- Spock 1.2 – hassle-free Spring beans mocking in integration tests | Solid Soft : https://solidsoft.wordpress.com/2018/09/03/spock-1-2-hassle-free-spring-beans-mocking-in-integration-tests/
+- Combining Object Mother and Fluent Builder for the Ultimate Test Data Factory - reflectoring : https://reflectoring.io/objectmother-fluent-builder/
+- Pattern Matching for Java : http://cr.openjdk.java.net/~briangoetz/amber/pattern-semantics.html
+- JPA beyond copy paste by Jakub Kubrynski - java : https://www.reddit.com/r/java/comments/9ek80f/jpa_beyond_copy_paste_by_jakub_kubrynski/
+- What’s New in JUnit 5.3 – Billy Korando – Medium : https://medium.com/@BillyKorando/whats-new-in-junit-5-3-c276eb8507f1
+- JDBC in Java, Hibernate, and ORMs: The Ultimate Resource - Database Star : https://www.databasestar.com/jdbc-in-java/
+- Creating a dynamically initialized bean in Spring – David Barda – Medium : https://medium.com/@davebarda/creating-a-dynamically-initialized-bean-in-spring-18d6d41d24df
+- A guide to logging in Java : https://www.marcobehler.com/guides/a-guide-to-logging-in-java
+- Getters/Setters. Evil. Period. : https://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html
+- Advanced TypeScript for Java Developers : http://blog.vavr.io/advanced-typescript-for-java-developers/
+- The Best Java Books for All Skill Levels : https://stackabuse.com/the-best-java-books-for-all-skill-levels/
+- Reactive Java all the way to the database with jasync-sql and javalin : https://medium.com/@OhadShai/reactive-java-all-the-way-to-the-database-with-jasync-sql-and-javalin-c982365d7dd2
+- Java 8 Functional Interfaces : http://www.javaguides.net/2018/07/java-8-functional-interfaces.html?spref=tw&m=1
+- Spincast - Java web framework : https://www.spincast.org/
+- reddit.com : https://reddit.com/r/java/comments/9hhl51/openid_connect_in_payara_5183/
+- Time Complexity of Java Collections | Baeldung : https://www.baeldung.com/java-collections-complexity?__s=rzb7pty1isp4c1pqgp8z
+- Check If a String Contains All The Letters of The Alphabet | Baeldung : https://www.baeldung.com/java-string-contains-all-letters?__s=rzb7pty1isp4c1pqgp8z
+- Difference Between Flatmap and Switchmap in Rxjava | Baeldung : https://www.baeldung.com/rxjava-flatmap-switchmap?__s=rzb7pty1isp4c1pqgp8z
+- State Design Pattern in Java | Baeldung : https://www.baeldung.com/java-state-design-pattern?__s=rzb7pty1isp4c1pqgp8z
+- OptaPlanner - Java Reflection, but much faster : https://www.optaplanner.org/blog/2018/01/09/JavaReflectionButMuchFaster.html
+- Best functional library - java : https://www.reddit.com/r/java/comments/9bqyha/best_functional_library/
+- TomEE: WebSocket and Lock it! - Tomitribe : https://www.tomitribe.com/blog/tomee-websocket-and-lock-it/
+- Spliterator Characteristics and Performance – Richard Startin's Blog : http://richardstartin.uk/spliterator-characteristics-and-performance/
+- Arthas - Open source non-disruptive Java diagnostic aid open sourced by Alibaba - java : https://www.reddit.com/r/java/comments/9gyn4k/arthas_open_source_nondisruptive_java_diagnostic/
+- Thread Pool Self-Induced Deadlocks - DZone Java : https://dzone.com/articles/thread-pool-self-induced-deadlocks
+- Java 11 String API Updates – { 4Comprehension } : https://4comprehension.com/java-11-string-api-updates/
+- Hibernate performance tuning tips - Vlad Mihalcea : https://vladmihalcea.com/hibernate-performance-tuning-tips/
+- Doing cool data science in Java: how 3 DataFrame libraries stack up : https://medium.com/@thijser/doing-cool-data-science-in-java-how-3-dataframe-libraries-stack-up-5e6ccb7b437
+- Part 1: Java to native using GraalVM : http://royvanrijn.com/blog/2018/09/part-1-java-to-native-using-graalvm/
+- JShell: A Comprehensive Guide to the Java REPL : https://www.infoq.com/articles/jshell-java-repl
+- A 30MB native image with Helidon to run REST based microservices : https://medium.com/oracledevs/a-30mb-native-image-with-helidon-to-run-rest-based-microservices-19c481fdda3c
+- Agile micro-service communication with Swagger generated clients (Eliminating REST API bugs) : https://medium.com/@jackmahoneynz/agile-micro-service-communication-with-swagger-generated-clients-eliminating-rest-api-bugs-b40610e96174
+- Inspired by Actual Events: Java Subtlety with Arrays of Primitives and Variable Arguments : http://marxsoftware.blogspot.com/2018/09/arrays-variable-arguments.html?m=1
+- Debugging Pitfall: Object Creation, Loops and Performance Optimization : https://medium.com/datadriveninvestor/debugging-pitfall-object-creation-loops-and-performance-optimization-27d9eb674a53
+- Love Spring and Spring Boot? Then, You’re Going to Love These Projects, Too : https://content.pivotal.io/blog/love-spring-and-spring-boot-then-you-re-going-to-love-these-projects-too
+- Crafting Java policy files, a practical guide : https://blog.frankel.ch/jvm-security/3/
+
+Web Development
+
+- Extending the browser with WebAssembly  |  Web  |  Google Developers : https://developers.google.com/web/updates/2018/08/wasm-av1
+- JavaScript at Tumblr — Making a progressive web app with webpack just got... : https://javascript.tumblr.com/post/177492037092/making-a-progressive-web-app-with-webpack-just-got
+- Why is a Java guy so excited about Node.js and JavaScript? : https://blog.sourcerer.io/why-is-a-java-guy-so-excited-about-node-js-and-javascript-7cfc423efb44
+- puppeteer-recorder/README.md at master · checkly/puppeteer-recorder · GitHub : https://github.com/checkly/puppeteer-recorder/blob/master/README.md
+- Removing jQuery from GitHub.com frontend | GitHub Engineering : https://githubengineering.com/removing-jquery-from-github-frontend/
+- GitHub - lusakasa/sqorn: A Javascript library for building SQL queries : https://github.com/lusakasa/sqorn
+- Ghost buttons: Why you should be afraid. – Prototypr : https://blog.prototypr.io/introduction-what-are-ghost-buttons-a87af5c8cee8
+- MailMason by Postmark | A complete toolset for building email templates : https://postmarkapp.com/mailmason
+- Goodbye Redux – Hacker Noon : https://hackernoon.com/goodbye-redux-26e6a27b3a0b
+- Reduce JavaScript Payloads with Code Splitting  |  Web Fundamentals  |  Google Developers : https://developers.google.com/web/fundamentals/performance/optimizing-javascript/code-splitting/
+- How we got a 100% Lighthouse performance score for our Vue.js app | Checkly : https://checklyhq.com/blog/2018/08/how-we-got-a-100-lighthouse-performance-score-for-our-vue.js-app/
+- "Killing the URL" | CSS-Tricks : https://css-tricks.com/killing-the-url/
+- How to Design for the Modern Web – Commit Log – Medium : https://medium.com/commitlog/how-to-design-for-the-modern-web-52eaa926bae2
+- Does JS really do that?! – codeburst : https://codeburst.io/does-js-really-do-that-43f17bc01e9b
+- Ava: HTML landing page for beta products - Freebiesbug : https://freebiesbug.com/code-stuff/ava/
+- Progressive Web Apps 101: the What, Why and How – freeCodeCamp.org : https://medium.freecodecamp.org/progressive-web-apps-101-the-what-why-and-how-4aa5e9065ac2
+- Progressive Web Apps 102: Building a Progressive Web App from scratch : https://medium.freecodecamp.org/progressive-web-apps-102-building-a-progressive-web-app-from-scratch-397b72168040
+- Yarn Plug'n'Play: Getting rid of node_modules · Issue #101 · yarnpkg/rfcs · GitHub : https://github.com/yarnpkg/rfcs/pull/101
+- GitHub - authorjapps/performance-tests: Sample Performance Tests - Corp Banking Application : https://github.com/authorjapps/performance-tests
+- javascriptkicks.us9.list-manage.com : https://javascriptkicks.us9.list-manage.com/track/click?u=4ba84fe3f6d629e746e48e5b7&id=c710f5604d&e=18609cb7ba
+- RxJS Operators for Dummies: forkJoin, zip, combineLatest, withLatestFrom ― Scotch : https://scotch.io/tutorials/rxjs-operators-for-dummies-forkjoin-zip-combinelatest-withlatestfrom
+- Render Caching for React | CSS-Tricks : https://css-tricks.com/render-caching-for-react/
+- Improving URL Security with Identicons | vorba.ch : https://vorba.ch/2018/url-security-identicons.html
+- awesome-reactnative-ui/README.md at master · madhavanmalolan/awesome-reactnative-ui · GitHub : https://github.com/madhavanmalolan/awesome-reactnative-ui/blob/master/README.md
+- GitHub - you-dont-need/You-Dont-Need-Momentjs: List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin : https://github.com/you-dont-need/You-Dont-Need-Momentjs
+- JavaScript Equality Table Game : https://slikts.github.io/js-equality-game/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun
+
+Other Programming languages
+
+- Get Coding with Snap! | openSAP : https://open.sap.com/courses/snap1
+- Top 10 Kafka Features: Reasons Behind the Popularity of Apache Kafka - DZone Big Data : https://dzone.com/articles/top-10-kafka-features-reason-behind-the-popularity?edition=393202&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-09-08
+- Select Star SQL : https://selectstarsql.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
+- GitHub - benfred/py-spy: Sampling profiler for Python programs : https://github.com/benfred/py-spy?utm_source=hackernewsletter&utm_medium=email&utm_term=code
+- Selecting the best Machine Learning algorithm for your regression problem : https://towardsdatascience.com/selecting-the-best-machine-learning-algorithm-for-your-regression-problem-20c330bad4ef
+- Python in Visual Studio Code – August 2018 Release – Python at Microsoft : https://blogs.msdn.microsoft.com/pythonengineering/2018/09/05/python-in-visual-studio-code-august-2018-release/?utm_source=hackernewsletter&utm_medium=email&utm_term=code
+- Project Python : http://projectpython.net/chapter00/?utm_source=hackernewsletter&utm_medium=email&utm_term=books
+- The Best Python Books – Real Python : https://realpython.com/best-python-books/
+- The GraalVM frenzy – Julien Ponge – Medium : https://medium.com/@jponge/the-graalvm-frenzy-f54257f5932c
+
+Tools
+
+- Jenkins Configuration as Code: Look Ma, No Hands - DZone DevOps : https://dzone.com/articles/jenkins-configuration-as-code-look-ma-no-hands
+- https://bundlephobia.com : https://bundlephobia.com/
+- vim-which-key/README.md at master · liuchengxu/vim-which-key · GitHub : https://github.com/liuchengxu/vim-which-key/blob/master/README.md
+- xsv/README.md at master · BurntSushi/xsv · GitHub : https://github.com/BurntSushi/xsv/blob/master/README.md
+- GitHub - mwouts/jupytext: Jupyter notebooks as Markdown documents, Julia, Python or R scripts : https://github.com/mwouts/jupytext?utm_source=hackernewsletter&utm_medium=email&utm_term=code
+- Dive into Git history with fugitive.vim - Advanced Web Machinery : https://advancedweb.hu/2018/09/11/fugitive/
+- Code Cop: IDE Support for Scripts : http://blog.code-cop.org/2018/09/ide-support-for-scripts.html?m=1
+- Top 5 IntelliJ IDEA and Android Studio Courses for Java and Android Development - DZone Java : https://dzone.com/articles/top-5-intellij-idea-and-android-studio-courses-for
+
+General
+
+- Swallowing the elephant: all the links : https://pharr.org/matt/blog/2018/07/16/moana-island-pbrt-all.html
+- Big O Notation — Simply explained with illustrations and video : https://medium.freecodecamp.org/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174
+- Back to basics: Dependency Injection : https://blog.frankel.ch/basics-dependency-injection/
+- Numbers Every Programmer Should Know By Year : https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+- An intensive introduction to Cryptography : https://intensecrypto.org/public/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
+- Patterns — Gordon Brander : http://gordonbrander.com/pattern/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
+- Ask HN: How to organize personal knowledge? | Hacker News : https://news.ycombinator.com/item?id=17892731&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn
+- The military secret to falling asleep in two minutes | The Independent : https://www.independent.co.uk/life-style/fall-asleep-two-minutes-how-to-military-secret-trick-a8520991.html?utm_source=hackernewsletter&utm_medium=email&utm_term=learn
+- People Hacks for Technical Leads – Marianne Bellotti – Medium : https://medium.com/@bellmar/people-hacks-for-technical-leads-6eef1576d046
+- GitHub - FiloSottile/mkcert: A simple zero-config tool to make locally trusted development certificates with any names you'd like. : https://github.com/FiloSottile/mkcert
+- Code Cop: Widespread Architectural Change Part 1 : http://blog.code-cop.org/2018/08/options-architectural-change.html?m=1
+- Pragmatic Programming Techniques: Structure Learning and Imitation Learning : http://horicky.blogspot.com/2018/09/structure-learning-and-imitation.html?m=1
+- Why You Should Enforce 100% Code Coverage* - reflectoring : https://reflectoring.io/100-percent-test-coverage/
+- Clean Coder Blog : http://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html
+- The New Intelligence – World Positive : https://worldpositive.com/the-new-intelligence-e3e1ff697f11
+- How Discord Handles Two and Half Million Concurrent Voice Users using WebRTC : https://blog.discordapp.com/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc-ce01c3187429
+- ToolsOfTheTrade/README.md at master · cjbarber/ToolsOfTheTrade · GitHub : https://github.com/cjbarber/ToolsOfTheTrade/blob/master/README.md
+- Why do we need HTTPS? - How HTTPS works : https://howhttps.works/why-do-we-need-https/
+- 23 guidelines for writing readable code - Alemil: Gamedev blog : https://alemil.com/guidelines-for-writing-readable-code
+- 'Impostor syndrome' affects almost 58% of tech professionals - JAXenter : https://jaxenter.com/impostor-syndrome-survey-149402.html
+- Build Once, Run Anywhere: Externalize Your Configuration - reflectoring : https://reflectoring.io/externalize-configuration/
+- Round Earth Test Strategy | Satisfice, Inc. : http://www.satisfice.com/blog/archives/4947
+- DDD 101 — The 5-Minute Tour – The Coding Matrix – Medium : https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8
+- On Generative Algorithms: Trees · inconvergent : https://inconvergent.net/generative/trees/
+- Top 5 Object Oriented Programming and Design Courses for Programmers : https://hackernoon.com/top-5-object-oriented-programming-and-design-courses-for-programmers-ad49f0870de4
