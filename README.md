@@ -598,3 +598,125 @@ General
 - DDD 101 — The 5-Minute Tour – The Coding Matrix – Medium : https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8
 - On Generative Algorithms: Trees · inconvergent : https://inconvergent.net/generative/trees/
 - Top 5 Object Oriented Programming and Design Courses for Programmers : https://hackernoon.com/top-5-object-oriented-programming-and-design-courses-for-programmers-ad49f0870de4
+
+
+Week 9 :
+
+
+Java
+
+﻿- JNoSQL and Jakarta EE - Tomitribe : https://www.tomitribe.com/blog/jnosql-and-jakarta-ee/
+- 90 New Features (and APIs) in JDK 11 - Azul Systems, Inc. : https://www.azul.com/90-new-features-and-apis-in-jdk-11/
+- Part 2: Native microservice in GraalVM : https://royvanrijn.com/blog/2018/09/part-2-native-microservice-in-graalvm/
+- Stephen Colebourne's blog: Oracle's Java 11 trap - Use OpenJDK instead! : https://blog.joda.org/2018/09/do-not-fall-into-oracles-java-11-trap.html?m=1
+- Implement Simple Convolutions with Java (Neural Nets) : java : https://www.reddit.com/r/java/comments/9jh1ye/implement_simple_convolutions_with_java_neural/
+- Spring read-only transaction Hibernate optimization - Vlad Mihalcea : https://vladmihalcea.com/spring-read-only-transaction-hibernate-optimization/
+- TechEmpower Framework Benchmarks : https://www.techempower.com/benchmarks/#section=test&runid=a0d6e357-e8e3-4a5b-9ef0-6175ed824b20&hw=ph&test=fortune&l=zik0vz-1
+- How To Screw A Code-Review - java : https://www.reddit.com/r/java/comments/9kjkk9/how_to_screw_a_codereview/
+- Confusing concurrency concepts in Java (2017 talk) : java : https://www.reddit.com/r/java/comments/9ld45t/confusing_concurrency_concepts_in_java_2017_talk/
+- JEP draft: Implement C++14 Language Features : https://openjdk.java.net/jeps/8208089
+- Migrating Java Microservices from Spring Boot to MicroProfile : java : https://www.reddit.com/r/java/comments/9j43kt/migrating_java_microservices_from_spring_boot_to/
+- Content negotiation with Spring Data JPA Projections - java : https://www.reddit.com/r/java/comments/9mqjrc/content_negotiation_with_spring_data_jpa/
+- Entering the next phase of Project Valhalla : java : https://www.reddit.com/r/java/comments/9mq6da/entering_the_next_phase_of_project_valhalla/
+- Upgrade to Java 9 or 10 ? : java : https://www.reddit.com/r/java/comments/9ml4pe/upgrade_to_java_9_or_10/
+- Java SE 11: The Great Removal – Kynosarges Weblog : https://news.kynosarges.org/2018/09/26/java-se-11-the-great-removal/
+- JVM Ecosystem Report 2018 - biggest ever JVM survey : java : https://www.reddit.com/r/java/comments/9oy14s/jvm_ecosystem_report_2018_biggest_ever_jvm_survey/
+- Five Oracle Code One sessions you don't want to miss - Coffee Talk: Java, News, Stories and Opinions : https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Five-Oracle-Code-One-sessions-you-dont-want-to-miss
+- The JVM Architecture Explained - DZone Java : https://dzone.com/articles/jvm-architecture-explained
+- Java Patterns for Concurrency - DZone Java : https://dzone.com/articles/java-patterns-for-concurrency
+
+Web Development
+
+- A Minimal JavaScript Setup | CSS-Tricks : https://css-tricks.com/a-minimal-javascript-setup/
+- Optical Effects in User Interfaces (for True Nerds) : https://medium.muz.li/optical-effects-9fca82b4cd9a?gi=7e7a6c249c12
+- The 12 Things You Need to Consider When Evaluating Any New JavaScript Library : https://medium.freecodecamp.org/the-12-things-you-need-to-consider-when-evaluating-any-new-javascript-library-3908c4ed3f49
+- Service Worker – Optimizing the Performance of an Angular App - The InfoGrid : https://theinfogrid.com/tech/developers/angular/service-worker-angular-performance/amp/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_270
+- The Three Pillars of Angular Routing. Angular Router Series Introduction. : https://blog.angularindepth.com/the-three-pillars-of-angular-routing-angular-router-series-introduction-fb34e4e8758e?gi=124f33d89aa1
+- New in Chrome 69: building <progress> doughnut charts with conical gradients : https://blog.logrocket.com/new-in-chrome-69-building-progress-doughnut-charts-with-conical-gradients-356820b1d081?gi=5df6e089e08b
+- The Low Hanging Fruit of Web Performance - The Media Temple Blog : https://mediatemple.net/blog/tips/low-hanging-fruit-web-performance/
+- Control Page Scroll in CSS Using Scroll Snapping ← Alligator.io : https://alligator.io/css/scroll-snapping/
+- GitHub - GoogleChrome/workbox: 📦 Workbox: JavaScript libraries for Progressive Web Apps : https://github.com/GoogleChrome/workbox
+- JavaScript Visualizer : https://tylermcginnis.com/javascript-visualizer/
+- How to stop using console.log() and start using your browser’s debugger : https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff
+- GitHub - leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know. : https://github.com/leonardomso/33-js-concepts
+- Top 10 Features of Angular 7.0 - Angular Minds : https://www.angularminds.com/blog/article/top-10-features-of-angular-7.html
+- GitHub - frontarm/async-javascript-cheatsheet: Cheatsheet for promises and async/await : https://github.com/frontarm/async-javascript-cheatsheet
+- A Beginner's Guide to JavaScript's Prototype : https://tylermcginnis.com/beginners-guide-to-javascript-prototype/
+- What Happened When I Peeked Into My Node_Modules Directory : https://medium.com/s/silicon-satire/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558
+- MODALZ MODALZ MODALZ : https://modalzmodalzmodalz.com/
+- Introducing Hooks – React : https://reactjs.org/docs/hooks-intro.html?utm_source=hackernewsletter&utm_medium=email&utm_term=code
+- Conditional JavaScript for Experts – Hacker Noon : https://hackernoon.com/conditional-javascript-for-experts-d2aa456ef67c
+- Eva Icons - beautifully crafted Open Source UI icons for common actions and items. : https://akveo.github.io/eva-icons/#/
+
+Other Programming languages
+
+- GitHub - trekhleb/learn-python: 📚 Playground and cheatsheet for learning Python : https://github.com/trekhleb/learn-python
+- skip · A programming language to skip the things you have already computed : http://www.skiplang.com/
+- Python/README.md at master · TheAlgorithms/Python · GitHub : https://github.com/TheAlgorithms/Python/blob/master/README.md
+- Java Public House: Episode 75. Let's get coding with Kotlin! : http://www.javapubhouse.com/2018/08/episode-75-lets-get-coding-with-kotlin.html?m=1
+- Facebook launches PyTorch 1.0 with integrations for Google Cloud, AWS, and Azure Machine Learning | VentureBeat : https://venturebeat.com/2018/10/02/facebook-launches-pytorch-1-0-integrations-for-google-cloud-aws-and-azure-machine-learning/
+- Making a Reminder Bot for Automating Meeting Organisation using R and Google Sheets-Granville Matheson's Blog : https://www.granvillematheson.com/post/reminder-bot/
+- Faster R with FastR – graalvm – Medium : https://medium.com/graalvm/faster-r-with-fastr-4b8db0e0dceb
+- These 7 steps can help you learn R programming language faster and better. : http://houseofbots.com/news-detail/3771-these-7-steps-can-help-you-learn-r-programming-language-faster-and-better.
+- An A-Z of useful Python tricks – freeCodeCamp.org : https://medium.freecodecamp.org/an-a-z-of-useful-python-tricks-b467524ee747
+- Conditions of Length Greater Than One - The R Blog : https://developer.r-project.org/Blog/public/2018/10/12/conditions-of-length-greater-than-one/
+- Top 10 Must-Watch PyCon Talks – Real Python : https://realpython.com/must-watch-pycon-talks/
+- R Performance Tuning - Tips to Improve R Speed & Memory - DataFlair : https://data-flair.training/blogs/r-performance-tuning-techniques/
+- Ultimate Python Quickstart Guide For Data Science : http://houseofbots.com/news-detail/3978-1-ultimate-python-quickstart-guide-for-data-science
+
+Tools
+
+- Telosys code generator for Java, JavaScript, Python, NodeJS, PHP, C#, etc : http://www.telosys.org/
+- Java 11 and IntelliJ IDEA | IntelliJ IDEA Blog : https://blog.jetbrains.com/idea/2018/09/java-11-and-intellij-idea/
+- 90. Comparing Git Workflows : https://www.codingblocks.net/podcast/comparing-git-workflows/
+- Gitflow Workflow | Atlassian Git Tutorial : https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+- Git branching guidance - Azure Repos | Microsoft Docs : https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=vsts
+- How to organize your git branches - DEV Community 👩‍💻👨‍💻 : https://dev.to/hardkoded/how-to-organize-your-git-branches-4dci
+- Stop cherry-picking, start merging: Index – The Old New Thing : https://blogs.msdn.microsoft.com/oldnewthing/20180323-01/?p=98325
+- awesome-vscode/README.md at master · viatsko/awesome-vscode · GitHub : https://github.com/viatsko/awesome-vscode/blob/master/README.md
+- GitHub launches Actions, its workflow automation tool – TechCrunch : https://techcrunch.com/2018/10/16/github-launches-actions-its-workflow-automation-tool/?utm_source=hackernewsletter&utm_medium=email&utm_term=code
+- How to save a puppy by creating a clean Git repo : https://blog.intracto.com/how-to-save-a-puppy-by-creating-a-clean-git-repo
+- GitHub - akavel/up: Ultimate Plumber is a tool for writing Linux pipes with instant live preview : https://github.com/akavel/up
+
+General
+
+- Running Production Systems: Level 1, Software Firefighting - DEV Community 👩‍💻👨‍💻 : https://dev.to/backendandbbq/running-production-systems-level-1-software-firefighting-20j4
+- 10 Algorithms and Programming Courses to Crack Coding Interviews - DZone Agile : https://dzone.com/articles/10-coding-interview-preparation-courses-crack-a-pr
+- How to Program Your Job - The Atlantic : https://www.theatlantic.com/technology/archive/2018/10/agents-of-automation/568795/?single_page=true&utm_source=hackernewsletter&utm_medium=email&utm_term=fav
+- The Hidden Power of Stack Overflow : http://nymag.com/intelligencer/2017/03/the-hidden-power-of-stack-overflow.html
+- How to Become a Better Software Developer: A Handbook on Personal Performance – 7pace Blog : https://www.7pace.com/blog/become-a-better-programmer-skills-development
+- I just got a developer job at Facebook. Here’s how I prepped for my interviews. : https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af
+- The Dangers of YouTube for Young Children - The Atlantic : https://www.theatlantic.com/magazine/archive/2018/11/raised-by-youtube/570838/?utm_source=The+Crunch&utm_campaign=c231e5cb41-THE_CRUNCH_55_COPY_01&utm_medium=email&utm_term=0_aa18ea5b4e-c231e5cb41-408698145
+- The Illustrated TLS Connection: Every Byte Explained : https://tls.ulfheim.net/
+- 12 Factor CLI Apps – Jeff Dickey – Medium : https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46
+- How I hacked modern Vending Machines – Hacker Noon : https://hackernoon.com/how-i-hacked-modern-vending-machines-43f4ae8decec
+- How I hacked hundreds of companies through their helpdesk : https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c
+- How to understand any programming task – freeCodeCamp.org : https://medium.freecodecamp.org/how-to-understand-any-programming-task-aea41eabe66e
+- Fold N Fly ✈ The Bird : https://www.foldnfly.com/32.html#The-Bird
+- Meow Hash : https://mollyrocket.com/meowhash
+- GitHub - open-source-for-science/TensorFlow-Course: Simple and ready-to-use tutorials for TensorFlow : https://github.com/open-source-for-science/TensorFlow-Course?utm_source=tldrnewsletter
+- Japan's Hometown Tax | Kalzumeus Software : https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
+- Domain Storytelling : http://domainstorytelling.org/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn
+- A bot disguised as a human software developer fixes bugs - MIT Technology Review : https://www.technologyreview.com/s/612336/a-bot-disguised-as-a-human-software-developer-fixes-bugs/
+- 10 Data Structure, Algorithms, and Programming Courses to Crack Any Coding Interview : https://hackernoon.com/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927
+- How to write a killer Software Engineering résumé – freeCodeCamp.org : https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d
+- Getting started with AI? Start here! – Hacker Noon : https://hackernoon.com/the-decision-makers-guide-to-starting-ai-72ee0d7044df
+- Machine learning — Is the emperor wearing clothes? – Hacker Noon : https://hackernoon.com/machine-learning-is-the-emperor-wearing-clothes-59933d12a3cc
+- 6 Skills Every Developer Should Have Besides Coding Skills : https://hackernoon.com/6-skills-every-developer-should-have-besides-coding-skills-35ab2891a1e4
+- Top 12 Things That Destroy Developer Productivity – Hacker Noon : https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190
+- Dr. Regex: How to match "A B C" where A+B=C: The Beast Reborn : http://www.drregex.com/2018/11/how-to-match-b-c-where-abc-beast-reborn.html?m=1
+- Excel Exercises : https://excelexercises.com/
+- crontab.guru - the cron schedule expression editor : https://crontab.guru/#5_0_*_8_*
+- I created a bot that talks to recruiters for me (and it's sooo good!) - DEV Community 👩‍💻👨‍💻 : https://dev.to/whokilledkevin/how-i-created-a-bot-that-talked-to-recruiters-for-me-54n5
+- Maximizing You Next Salary – Hacker Noon : https://hackernoon.com/maximizing-you-next-salary-4e3aa2af2f8e
+- glorious-demo/README.md at master · glorious-codes/glorious-demo · GitHub : https://github.com/glorious-codes/glorious-demo/blob/master/README.md
+
+SQL
+
+- Persisting fast in database – Jerónimo López – Medium : https://medium.com/@jerolba/persisting-fast-in-database-1af4a281e3a
+- GitHub - ramnes/awesome-mongodb: A curated list of awesome MongoDB resources, libraries, tools and applications : https://github.com/ramnes/awesome-mongodb
+- Visualizing SQL Plan Execution Time With FlameGraphs | Tanel Poder: SQL Performance Tuning, System Troubleshooting and Training : https://blog.tanelpoder.com/posts/visualizing-sql-plan-execution-time-with-flamegraphs/?utm_source=getresponse&utm_medium=email&utm_campaign=devopslinks&utm_content=%F0%9F%8E%83+DevOpsLinks+%23137%3A+Red+Hat+Acquisition%2C+Monitoring+Kubernetes+%26+AWS+Lambda+Security
+
+Cloud
+
+- Jerry Hargrove | Cloud Diagrams & Notes : https://www.awsgeek.com/
